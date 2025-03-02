@@ -16,7 +16,7 @@ Feel free to explore the projects and connect with me for any collaborations or 
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/website.png"/>][website]
+
 [<img align="left" alt="codeSTACKr.com" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/gmail.png"/>][gmail]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/linkedin.png"/>][linkedin]
 [<img align="left" alt="codeSTACKr | Twitter" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/medium.png"/>][medium]
@@ -52,7 +52,7 @@ Feel free to explore the projects and connect with me for any collaborations or 
 [website]: https://somakshi1.github.io/
 [gmail]: https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=somakshi1@gmail.com
 [linkedin]: https://www.linkedin.com/in/somakshi1/
-[medium]: https://somakshi1.medium.com/
+[medium]: https://medium.com/@somakshi1
 [twitter]: https://twitter.com/somakshi_iiiii
 [kaggle]: https://www.kaggle.com/somakshi1
 
