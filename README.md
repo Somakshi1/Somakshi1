@@ -1,5 +1,3 @@
-<img align="center" alt="Cover" width="850px" src="![image](https://github.com/user-attachments/assets/86bd6eba-9dee-491b-961f-f73b5230e85a)
-"/>
 
 ## Hi there, I'm Somakshi Srivastava <img src="https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Hello.gif" width="20"/>
 
@@ -50,12 +48,12 @@ Feel free to explore the projects and connect with me for any collaborations or 
 <br />
 <br />
 
-[website]: https://somakshi1.github.io/
+
 [gmail]: https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=somakshi1@gmail.com
 [linkedin]: https://www.linkedin.com/in/somakshi1/
 [medium]: https://medium.com/@somakshi1
 [twitter]: https://twitter.com/somakshi_iiiii
-[kaggle]: https://www.kaggle.com/somakshi1
+
 
 [python]: https://www.python.org/
 [jupyter_notebook]: https://jupyter.org/
