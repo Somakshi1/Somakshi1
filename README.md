@@ -1,4 +1,5 @@
-<img align="center" alt="Cover" width="850px" src="https://github.com/iamsouravbanerjee/iamsouravbanerjee/blob/master/assets/cover.gif"/>
+<img align="center" alt="Cover" width="850px" src="![image](https://github.com/user-attachments/assets/86bd6eba-9dee-491b-961f-f73b5230e85a)
+"/>
 
 ## Hi there, I'm Somakshi Srivastava <img src="https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Hello.gif" width="20"/>
 
