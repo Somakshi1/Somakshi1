@@ -40,7 +40,6 @@ Feel free to explore the projects and connect with me for any collaborations or 
 [<img align="left" alt="MySQL" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/mysql.png"/>][mysql]
 [<img align="left" alt="GitLab" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/gitlab.png"/>][gitlab]
 [<img align="left" alt="PostgreSQL" width="35px" src="https://github.com/iamsouravbanerjee/iamsouravbanerjee/blob/master/assets/postgresql.png"/>][postgresql]
-[<img align="left" alt="Binder" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/binder.png"/>][binder]
 [<img align="left" alt="Plotly" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/plotly.png"/>][plotly]
 [<img align="left" alt="Excel" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/excel.png"/>][excel]
 [<img align="left" alt="Streamlit" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/streamlit.png"/>][streamlit]
