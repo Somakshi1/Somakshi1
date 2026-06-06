@@ -3,7 +3,7 @@
 
 - I am a passionate Network Engineer with a strong interest in designing, managing, and troubleshooting network infrastructures. I specialize in routing and switching, network security, wireless technologies, and system administration, leveraging tools and platforms such as Cisco Packet Tracer, GNS3, Wireshark, and Linux-based systems. Through this repository, I aim to showcase my networking projects, share practical solutions, contribute to the community, and continuously enhance my technical expertise. Feel free to explore my work and connect with me for collaborations, networking discussions, or knowledge sharing.
 
-## I'm a Data Scientist and a Lifelong Learner.
+## I'm a Network Engineer and a Lifelong Learner.
 - <b> Currently, I'm deeply engaged in Networking, Network Security, and Infrastructure projects. </b>
 - <b> Every day brings an opportunity to strengthen my knowledge of Routing, Switching, Wireless Technologies, and Network Troubleshooting. </b>
 - <b> My career goal is to design, optimize, and secure reliable network environments while continuously expanding my expertise in enterprise networking. </b>
