@@ -1,16 +1,13 @@
 
 ## Hi there, I'm Somakshi Srivastava <img src="https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Hello.gif" width="20"/>
 
-- a passionate data enthusiast with a keen interest in leveraging data analytics and data science to uncover insights and drive informed decision-making. 
-I specialize in data analysis, visualization, and machine learning, using tools such as Python, Power BI, and Jupyter Notebooks. 
-Through this repository, I aim to share my work, contribute to the community, and continuously enhance my skills in the field of data science and analytics. 
-Feel free to explore the projects and connect with me for any collaborations or discussions!
+- I am a passionate Network Engineer with a strong interest in designing, managing, and troubleshooting network infrastructures. I specialize in routing and switching, network security, wireless technologies, and system administration, leveraging tools and platforms such as Cisco Packet Tracer, GNS3, Wireshark, and Linux-based systems. Through this repository, I aim to showcase my networking projects, share practical solutions, contribute to the community, and continuously enhance my technical expertise. Feel free to explore my work and connect with me for collaborations, networking discussions, or knowledge sharing.
 
 ## I'm a Data Scientist and a Lifelong Learner.
-- <b> 🔭 Currently, I'm deeply engaged in Machine Learning and Deep Learning projects 🚀. </b>
-- <b> 🌱 Every day brings a chance for me to acquire fresh knowledge and enhance my skill set 📊. </b>
-- <b> 🎯 My 2025 aspirations are geared towards addressing challenges within NLP and Computer Vision 📚. </b>
-- <b> ⚡ I'm a Hodophile at heart, driven by a passion for discovering novel culinary delights 🍜. </b>
+- <b> Currently, I'm deeply engaged in Networking, Network Security, and Infrastructure projects. </b>
+- <b> Every day brings an opportunity to strengthen my knowledge of Routing, Switching, Wireless Technologies, and Network Troubleshooting. </b>
+- <b> My career goal is to design, optimize, and secure reliable network environments while continuously expanding my expertise in enterprise networking. </b>
+- <b> I'm passionate about exploring new technologies, solving complex network challenges, and staying updated with the latest industry trends. </b>
 
 
 ### Connect with me:
